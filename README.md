@@ -29,7 +29,7 @@ To run APSP locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/apsp.git
+   git clone https://github.com/rythmern02/apsp.git
    ```
 
 2. Install dependencies:
